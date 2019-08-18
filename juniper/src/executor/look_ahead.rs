@@ -1395,5 +1395,4 @@ fragment heroFriendNames on Hero {
             panic!("No Operation found");
         }
     }
-
 }
